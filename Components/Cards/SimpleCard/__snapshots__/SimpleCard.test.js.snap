@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 8,
+        "fontSize": 16,
+        "height": 130,
+        "marginVertical": 4,
+        "maxHeight": 130,
+        "maxWidth": 120,
+        "paddingBottom": 16,
+        "paddingHorizontal": 16,
+        "paddingTop": 24,
+        "width": 120,
+      },
+      Object {
+        "backgroundColor": "#E7ECF2",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      font="Regular"
+      multiline={true}
+      numberOfLines={2}
+      style={
+        Object {
+          "color": "#333",
+          "fontSize": 15,
+          "textAlign": "center",
+        }
+      }
+    />
+  </View>
+</View>
+`;

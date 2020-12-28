@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should match Snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 6,
+          "elevation": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "marginVertical": 4,
+          "minHeight": 48,
+          "paddingHorizontal": 16,
+          "shadowColor": "#333",
+          "shadowOffset": Object {
+            "height": 0.3,
+            "width": 0,
+          },
+          "shadowOpacity": 0.25,
+          "shadowRadius": 0.44,
+        },
+        Object {
+          "backgroundColor": "#00008F",
+          "borderColor": "#00008F",
+        },
+      ],
+      Object {
+        "backgroundColor": "#00008F",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          Array [
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 16,
+                "fontWeight": "500",
+              },
+              Object {
+                "color": "#FFFFFF",
+              },
+            ],
+            Object {
+              "color": "#FFFFFF",
+            },
+          ]
+        }
+      >
+        Hello Word
+      </Text>
+    </View>
+  </View>
+</View>
+`;

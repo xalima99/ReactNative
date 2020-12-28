@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Link 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 16,
+              "fontWeight": "500",
+            },
+            Object {
+              "color": "#00008F",
+            },
+          ],
+          Object {
+            "color": "#00008F",
+            "textDecorationColor": "#00008F",
+          },
+        ]
+      }
+    >
+      Hello Word
+    </Text>
+  </View>
+</View>
+`;

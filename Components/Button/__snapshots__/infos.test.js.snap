@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render given children 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "center",
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "red",
+            },
+            Object {
+              "color": "red",
+            },
+          ],
+          Object {
+            "color": "red",
+          },
+        ]
+      }
+    >
+      axalib
+    </Text>
+  </View>
+</View>
+`;
